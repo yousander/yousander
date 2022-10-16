@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yousander
+- 👋 Hi, I’m @yousander - @alexanderlrosas
 - 👀 I’m interested in all programming in general!
 - 🌱 I’m currently working C#, SQLToLinq, JavaScript and ASP.NET; some React, PHP, Laravel and Eloquent!
 - 💞️ I’m looking to collaborate on Big Projects of Programming
